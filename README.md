@@ -8,7 +8,7 @@ It includes Jupyter notebooks, datasets, and exercises exploring various ML conc
 - **Datasets** – Sample datasets used for training and testing models.
 
 ## Tools & Libraries
-- Python 3.x
+- Python 3.10
 - NumPy
 
 ## How to Use
